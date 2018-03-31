@@ -12,7 +12,7 @@
 
 CC = gcc
 CFLAG = -Wall -Wextra -Werror
-NAME = minishell
+NAME = 21sh
 SRC = 	main.c \
 		output.c \
 		execute.c \
